@@ -1,0 +1,1 @@
+go run main.go -mode=client -operation=Insert -key=1 -value=asdf
